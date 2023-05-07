@@ -7,7 +7,7 @@
     "office-ui-fabric-react": "^7.67.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.4.4"
   },
   "main": "public/electron.js",
   "scripts": {
